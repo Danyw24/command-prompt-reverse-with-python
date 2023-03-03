@@ -1,5 +1,4 @@
 El proyecto consta de 3 archivos, servidor, victima, atacante. Funciona al estilo de un chat, pero el mensaje enviado es interpretado por la consola usando el módulo (OS) para ejecutar lo que manda el atacante.
-También en vez de usar victym.py si la maquina no tiene Python hay un ejecutable con la misma funcionalidad, Tener en cuenta que este código fue escrito por un niño de 12 años así que tampoco hay que tomarse las cosas tan enserio :)
 
 Pasos: 
 
